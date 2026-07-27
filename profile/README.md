@@ -3,7 +3,7 @@
 
 Welcome to **FTP Softs** — a premium software development and IT solutions company focused on building scalable, high-performance digital products.
 
-🌐 Website: [ftpsofts.com](https://ftpsofts.com?utm_source=chatgpt.com)
+🌐 Website: [ftpsofts.com](https://ftpsofts.com)
 
 ---
 
