@@ -47,8 +47,8 @@ We emphasize clean code practices, modern frameworks, and efficient workflows to
 
 We work with a modern tech stack to deliver high-quality applications:
 
-* **Frontend:** React, Next.js, Tailwind CSS
-* **Backend:** Node.js, Express.js, Laravel, Django, Spring Boot
+* **Frontend:** React, Blade, Tailwind CSS
+* **Backend:** Node.js, Express.js, Laravel
 * **Mobile:** Flutter, Swift
 * **Database:** PostgreSQL, MongoDB, Firebase
 * **DevOps:** Docker, Kubernetes
