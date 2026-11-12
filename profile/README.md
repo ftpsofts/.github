@@ -2,8 +2,6 @@
 
 <img src="https://ftpsofts.com/assets/img/logo.png" width="280" alt="FTP Softs Logo"/>
 
-<br/>
-
 ### ENGINEERING DIGITAL PRODUCTS. BUILDING WHAT'S NEXT.
 
 **Software Engineering · Product Development · Technology Solutions**
@@ -15,34 +13,34 @@ We build software products, engineer digital experiences, and develop scalable t
 <a href="https://ftpsofts.com">
 <img src="https://img.shields.io/badge/WEBSITE-FTP%20SOFTS-16A34A?style=for-the-badge" alt="FTP Softs Website"/>
 </a>
-<a href="https://github.com/sabbirmms">
-<img src="https://img.shields.io/badge/GITHUB-FTP%20SOFTS-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/ftpsofts">
+<img src="https://img.shields.io/badge/GITHUB-FTP%20SOFTS-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="FTP Softs GitHub"/>
 </a>
 
 </div>
 
 ---
 
-## 01 / ABOUT FTP SOFTS
+## ABOUT FTP SOFTS
 
 **FTP Softs** is a software engineering and technology company focused on building digital products, scalable applications, and modern software solutions.
 
 We combine engineering, product development, and strategic thinking to transform ideas into practical technology.
 
-Our work spans independent software products, SaaS platforms, business management systems, custom applications, and digital infrastructure.
+Our work spans independent software products, SaaS platforms, business management systems, custom applications, intelligent systems, and digital infrastructure.
 
 We operate with two complementary objectives:
 
-- **Product Development:** Building and maintaining our own portfolio of software products.
-- **Software Engineering Services:** Developing custom digital solutions for businesses and organizations.
+- **Product Development:** Building, maintaining, and evolving our own portfolio of software products.
+- **Software Engineering Services:** Developing custom digital solutions for businesses, entrepreneurs, and organizations.
 
-Our philosophy is simple:
+We believe software should do more than digitize existing processes. It should eliminate unnecessary complexity, improve efficiency, and create entirely new possibilities.
 
 > Build meaningful technology. Solve real problems. Create lasting value.
 
 ---
 
-## 02 / OUR PRODUCT PORTFOLIO
+## OUR PRODUCT PORTFOLIO
 
 We develop software products across multiple industries, business categories, and technology domains.
 
@@ -50,11 +48,19 @@ Each product is designed around a specific purpose, with a shared commitment to 
 
 <div align="center">
 
-<table>
+<table width="100%" cellpadding="12" cellspacing="0">
 <tr>
 <td width="33.33%" align="center" valign="middle">
 
-<img src="https://cdn.ftpsofts.com/central-brand-assets/01M7738YHAN3NBNKWTMSP3NTBA.webp" width="130" alt="Bebsai Logo"/>
+<table width="100%" cellpadding="24" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#16A34A">
+
+<img src="https://cdn.ftpsofts.com/central-brand-assets/01M7738YHAN3NBNKWTMSP3NTBA.webp" width="145" alt="Bebsai Logo"/>
+
+</td>
+</tr>
+</table>
 
 ### BEBSAI
 
@@ -62,9 +68,9 @@ Each product is designed around a specific purpose, with a shared commitment to 
 
 <sub>Business for smart people.</sub>
 
-<sub>● LATEST PRODUCT</sub>
+<sub><b>LATEST PRODUCT</b></sub>
 
-<a href="https://bebsai.com">Explore →</a>
+<a href="https://bebsai.com">Explore Product →</a>
 
 </td>
 <td width="33.33%" align="center" valign="middle">
@@ -152,11 +158,19 @@ Our portfolio continues to evolve as we develop new products and explore emergin
 
 ---
 
-## 03 / LATEST PRODUCT — BEBSAI
+## LATEST PRODUCT — BEBSAI
 
 <div align="center">
 
-<img src="https://cdn.ftpsofts.com/central-brand-assets/01M7738YHAN3NBNKWTMSP3NTBA.webp" width="420" alt="Bebsai — Business for smart people"/>
+<table width="100%" cellpadding="40" cellspacing="0" border="0">
+<tr>
+<td align="center" bgcolor="#16A34A">
+
+<img src="https://cdn.ftpsofts.com/central-brand-assets/01M7738YHAN3NBNKWTMSP3NTBA.webp" width="400" alt="Bebsai Logo"/>
+
+</td>
+</tr>
+</table>
 
 ### Business for smart people.
 
@@ -207,7 +221,7 @@ The store owner retains ultimate authority over the business.
 
 ---
 
-## 04 / WHAT WE ENGINEER
+## WHAT WE ENGINEER
 
 Beyond our own product ecosystem, FTP Softs provides software engineering and technology development services.
 
@@ -219,6 +233,7 @@ Beyond our own product ecosystem, FTP Softs provides software engineering and te
 | SaaS Development | Scalable subscription-based platforms |
 | Backend Engineering | APIs, architecture and business logic |
 | E-Commerce Development | Digital commerce solutions |
+| AI & Intelligent Systems | AI-powered applications and integrations |
 | Cloud & DevOps | Infrastructure and deployment |
 | API Integration | Third-party services and system connectivity |
 | Custom Software | Business-specific software solutions |
@@ -226,7 +241,7 @@ Beyond our own product ecosystem, FTP Softs provides software engineering and te
 
 ---
 
-## 05 / TECHNOLOGY STACK
+## TECHNOLOGY STACK
 
 Our engineering ecosystem is built around modern, reliable technologies. We select tools based on project requirements, system architecture, scalability, performance, and long-term maintainability.
 
@@ -234,10 +249,31 @@ Our engineering ecosystem is built around modern, reliable technologies. We sele
 
 <div align="center">
 
-| REACT | TAILWIND CSS | BLADE |
-|:---:|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/react/61DAFB" width="32" height="32" alt="React"/> | <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" height="32" alt="Tailwind CSS"/> | <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="32" height="32" alt="Laravel Blade"/> |
-| React | Tailwind CSS | Laravel Blade |
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React"/>
+
+**React**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36" alt="Tailwind CSS"/>
+
+**Tailwind CSS**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/laravel/FF2D20" width="36" height="36" alt="Blade"/>
+
+**Blade**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -245,10 +281,31 @@ Our engineering ecosystem is built around modern, reliable technologies. We sele
 
 <div align="center">
 
-| NODE.JS | EXPRESS.JS | LARAVEL |
-|:---:|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="32" height="32" alt="Node.js"/> | <img src="https://cdn.simpleicons.org/express/000000" width="32" height="32" alt="Express.js"/> | <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="32" height="32" alt="Laravel"/> |
-| Node.js | Express.js | Laravel |
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="36" height="36" alt="Node.js"/>
+
+**Node.js**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/express/000000" width="36" height="36" alt="Express.js"/>
+
+**Express.js**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/laravel/FF2D20" width="36" height="36" alt="Laravel"/>
+
+**Laravel**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -256,10 +313,24 @@ Our engineering ecosystem is built around modern, reliable technologies. We sele
 
 <div align="center">
 
-| FLUTTER | SWIFT |
-|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/flutter/54C5F8" width="32" height="32" alt="Flutter"/> | <img src="https://cdn.simpleicons.org/swift/F05138" width="32" height="32" alt="Swift"/> |
-| Flutter | Swift |
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://cdn.simpleicons.org/flutter/54C5F8" width="36" height="36" alt="Flutter"/>
+
+**Flutter**
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://cdn.simpleicons.org/swift/F05138" width="36" height="36" alt="Swift"/>
+
+**Swift**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -267,21 +338,99 @@ Our engineering ecosystem is built around modern, reliable technologies. We sele
 
 <div align="center">
 
-| POSTGRESQL | MONGODB | FIREBASE |
-|:---:|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="32" height="32" alt="PostgreSQL"/> | <img src="https://cdn.simpleicons.org/mongodb/47A248" width="32" height="32" alt="MongoDB"/> | <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="32" height="32" alt="Firebase"/> |
-| PostgreSQL | MongoDB | Firebase |
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL"/>
+
+**PostgreSQL**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="36" height="36" alt="MongoDB"/>
+
+**MongoDB**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" height="36" alt="Firebase"/>
+
+**Firebase**
+
+</td>
+</tr>
+</table>
 
 </div>
+
+### AI & Intelligent Systems
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="OpenAI"/>
+
+**LLM Integration**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" height="36" alt="LangChain"/>
+
+**AI Agent Development**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="36" height="36" alt="Hugging Face"/>
+
+**AI Model Ecosystem**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+**AI Engineering Skills**
+
+- Large Language Model (LLM) integration.
+- AI agent architecture and development.
+- Retrieval-Augmented Generation (RAG).
+- Prompt engineering and context management.
+- AI-powered workflow automation.
+- Intelligent API and tool integrations.
+- AI-assisted content generation.
+- Conversational interfaces and chatbot development.
 
 ### Infrastructure & DevOps
 
 <div align="center">
 
-| DOCKER | KUBERNETES |
-|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/docker/2496ED" width="32" height="32" alt="Docker"/> | <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="32" height="32" alt="Kubernetes"/> |
-| Docker | Kubernetes |
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker"/>
+
+**Docker**
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="36" height="36" alt="Kubernetes"/>
+
+**Kubernetes**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -289,10 +438,31 @@ Our engineering ecosystem is built around modern, reliable technologies. We sele
 
 <div align="center">
 
-| GIT | POSTMAN | SWAGGER |
-|:---:|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" alt="Git"/> | <img src="https://cdn.simpleicons.org/postman/FF6C37" width="32" height="32" alt="Postman"/> | <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="32" height="32" alt="Swagger"/> |
-| Git | Postman | Swagger |
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git"/>
+
+**Git**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="36" height="36" alt="Postman"/>
+
+**Postman**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" width="36" height="36" alt="Swagger"/>
+
+**Swagger**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -300,35 +470,61 @@ Our engineering ecosystem is built around modern, reliable technologies. We sele
 
 ---
 
-## 06 / OUR ENGINEERING APPROACH
+## OUR ENGINEERING APPROACH
 
 We follow a structured development process to deliver reliable digital products.
 
 | Stage | Process |
-|:---:|:---|
-| 01 | **Discovery** — Research and requirement analysis |
-| 02 | **Architecture** — System design and technical planning |
-| 03 | **Design** — User experience and interface engineering |
-| 04 | **Development** — Software implementation and integration |
-| 05 | **Quality Assurance** — Testing, security and optimization |
-| 06 | **Deployment** — Production release and infrastructure |
-| 07 | **Evolution** — Maintenance and continuous improvement |
+|:---|:---|
+| **Discovery** | Research and requirement analysis |
+| **Architecture** | System design and technical planning |
+| **Design** | User experience and interface engineering |
+| **Development** | Software implementation and integration |
+| **Quality Assurance** | Testing, security and optimization |
+| **Deployment** | Production release and infrastructure |
+| **Evolution** | Maintenance and continuous improvement |
 
 We emphasize clean architecture, maintainable code, performance, security, and long-term product sustainability.
 
 ---
 
-## 07 / OUR MISSION
+## OUR MISSION
 
-To build innovative digital products and accessible technology solutions that simplify complexity, empower businesses, and create opportunities through technology.
+Our mission is to engineer technology that makes a meaningful difference in how people, businesses, and organizations operate.
 
-## 08 / OUR VISION
+We aim to transform complex challenges into accessible, reliable, and scalable digital solutions. Through continuous innovation and practical engineering, we strive to reduce operational friction, improve productivity, and make advanced technology more accessible.
 
-To become a product-driven technology company recognized for engineering meaningful software, developing innovative digital ecosystems, and delivering scalable technology solutions.
+We are committed to:
+
+- **Building meaningful products:** Developing software that addresses genuine problems rather than simply following technology trends.
+- **Making technology accessible:** Bringing modern digital capabilities to businesses of different sizes and levels of technical maturity.
+- **Engineering for scalability:** Creating robust systems that can evolve alongside changing business requirements.
+- **Encouraging innovation:** Exploring emerging technologies, including artificial intelligence, to unlock better ways of working.
+- **Delivering lasting value:** Prioritizing reliability, usability, security, and sustainable product development.
+
+Our ultimate goal is to bridge the gap between technological possibilities and practical business needs.
+
+## OUR VISION
+
+Our vision is to become a globally recognized, product-driven technology company known for engineering meaningful software products, intelligent digital ecosystems, and innovative technology solutions.
+
+We aspire to build an ecosystem of independent products that serve diverse industries while maintaining a shared commitment to engineering excellence.
+
+We envision a future where:
+
+- Digital products simplify everyday business operations.
+- Intelligent systems help people make better decisions and work more efficiently.
+- Businesses of all sizes can access powerful and scalable technology.
+- Software ecosystems become more connected, adaptable, and user-centric.
+- Innovation is driven by real-world needs and long-term impact.
+
+We aim to grow beyond conventional software development by continuously creating, improving, and expanding our own portfolio of technology products.
+
+**Our ambition is not simply to build more software. It is to build technology that moves industries forward.**
 
 ---
 
-## 09 / LET'S BUILD SOMETHING MEANINGFUL
+## LET'S BUILD SOMETHING MEANINGFUL
 
 Have an idea, a product concept, or a business challenge?
 
@@ -339,8 +535,8 @@ We welcome collaborations, engineering partnerships, and opportunities to create
 <a href="https://ftpsofts.com">
 <img src="https://img.shields.io/badge/WEBSITE-ftpsofts.com-16A34A?style=for-the-badge" alt="Website"/>
 </a>
-<a href="https://github.com/sabbirmms">
-<img src="https://img.shields.io/badge/GITHUB-Sabbir-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/ftpsofts">
+<img src="https://img.shields.io/badge/GITHUB-FTP%20SOFTS-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://bebsai.com">
 <img src="https://img.shields.io/badge/LATEST_PRODUCT-BEBSai-16A34A?style=for-the-badge" alt="Bebsai"/>
@@ -354,7 +550,7 @@ We welcome collaborations, engineering partnerships, and opportunities to create
 
 <br/>
 
-**Maintained by FTP Softs**
+**Maintained by FTP Softs Engineering Team**
 
 <sub>© FTP Softs. All rights reserved.</sub>
 
