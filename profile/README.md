@@ -1,265 +1,287 @@
  <div align="center">
 
-<img src="assets/ftp-softs-banner.png" width="100%" alt="FTP Softs — Engineering Digital Products. Building What's Next."/>
-
-# FTP SOFTS
+<img src="https://ftpsofts.com/assets/img/logo.png" width="260" alt="FTP Softs"/>
 
 ### ENGINEERING DIGITAL PRODUCTS. BUILDING WHAT'S NEXT.
 
-**Software Engineering · Digital Products · Technology Solutions**
+**Software Engineering · Product Development · Technology Solutions**
 
-We engineer modern software, build meaningful digital products, and develop scalable technology solutions for businesses and the digital world.
+We build software products, engineer digital experiences, and develop technology solutions for businesses and organizations.
 
 <br/>
 
-<a href="https://ftpsofts.com">
-  <img src="https://img.shields.io/badge/Official_Website-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website"/>
-</a>
-<a href="https://bebsai.com">
-  <img src="https://img.shields.io/badge/Latest_Product-Bebsai-0F172A?style=for-the-badge" alt="Latest Product"/>
-</a>
+<a href="https://ftpsofts.com"><img src="https://img.shields.io/badge/WEBSITE-FTP%20SOFTS-16A34A?style=for-the-badge" /></a>
+<a href="https://github.com/sabbirmms"><img src="https://img.shields.io/badge/GITHUB-FTP%20SOFTS-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 01 / ABOUT FTP SOFTS
+## ABOUT US
 
-FTP Softs is a technology-driven software development company focused on engineering digital products, scalable business platforms, and innovative software solutions.
+**FTP Softs** is a software engineering and technology company focused on building digital products, scalable applications, and modern software solutions.
 
-We bring together engineering, product strategy, and user-centric design to transform ideas into practical technology.
+We combine engineering, product development, and strategic thinking to transform ideas into practical technology.
 
-Our work spans independent software products, SaaS platforms, enterprise solutions, custom applications, and intelligent business systems.
+Our work spans independent software products, SaaS platforms, business management systems, custom applications, and digital infrastructure.
 
-We believe software should do more than digitize existing processes. It should eliminate unnecessary complexity, improve efficiency, and create entirely new possibilities.
+We operate with two complementary objectives:
 
-> We don't just build software. We engineer solutions that move businesses forward.
+- **Product Development:** Building and maintaining our own portfolio of software products.
+- **Software Engineering Services:** Developing custom digital solutions for businesses and organizations.
+
+Our philosophy is simple:
+
+> Build meaningful technology. Solve real problems. Create lasting value.
 
 ---
 
-## 02 / OUR PRODUCT PORTFOLIO
+## OUR PRODUCT PORTFOLIO
 
-We believe in building technology products that solve meaningful problems.
+We develop software products across multiple industries, business categories, and technology domains.
 
-Our product portfolio represents our commitment to innovation, independent product development, and practical engineering.
-
-We develop, maintain, and evolve digital products across different industries and technology domains.
-
-### LATEST PRODUCT RELEASE
+Each product is designed around a specific purpose, with a shared commitment to usability, engineering quality, and practical value.
 
 <div align="center">
 
-<img src="assets/bebsai-dashboard.png" width="100%" alt="Bebsai Product Showcase"/>
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
 
-# BEBSAI
+<img src="assets/bebsai-logo.png" width="150" alt="Bebsai Logo"/>
+
+### BEBSAI
+
+**E-Commerce Enablement Platform**
+
+<sub>Business for smart people.</sub>
+
+<sub><b>LATEST PRODUCT</b></sub>
+
+<a href="https://bebsai.com">Explore Product →</a>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+### LaraSuite
+
+**PHP Development Framework**
+
+<sub>A framework for structured application development.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+### Hotel Management System
+
+**Hospitality Management Software**
+
+<sub>Software for hotel and accommodation operations.</sub>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+### Hospital Management System
+
+**Healthcare Management Software**
+
+<sub>Digital management solutions for healthcare facilities.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+### Edu Suite
+
+**Education ERP**
+
+<sub>Integrated education and institutional management.</sub>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+### Payment Suite
+
+**Payment Technology**
+
+<sub>Digital payment and transaction solutions.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+### E-School
+
+**Digital Education Platform**
+
+<sub>Technology for digital learning environments.</sub>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+### Sleep Suite
+
+**Software Product**
+
+<sub>A dedicated product in our software portfolio.</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="middle">
+
+### ARARA
+
+**Design System**
+
+<sub>A design system for consistent digital product experiences.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+Our portfolio continues to evolve as we develop new products and explore emerging technology opportunities.
+
+---
+
+## LATEST PRODUCT — BEBSAI
+
+<div align="center">
+
+<img src="assets/bebsai-logo.png" width="420" alt="Bebsai — Business for smart people"/>
 
 ### Business for smart people.
 
 **An all-in-one e-commerce enablement and intelligent business management platform.**
 
-<a href="https://bebsai.com">
-  <img src="https://img.shields.io/badge/EXPLORE_BEBSai-Visit_Product-16A34A?style=for-the-badge" alt="Explore Bebsai"/>
-</a>
+<a href="https://bebsai.com"><img src="https://img.shields.io/badge/EXPLORE-BEBSai-16A34A?style=for-the-badge" /></a>
 
 </div>
 
-### About Bebsai
+Bebsai is our latest product, designed to simplify how online businesses are launched, managed, and operated.
 
-Bebsai is the latest product developed under FTP Softs, designed to simplify how online businesses are launched, managed, and operated.
+Built with Bangladesh's digital commerce ecosystem in mind, it brings together:
 
-Built with Bangladesh's growing digital commerce ecosystem in mind, Bebsai brings storefront management, product operations, order processing, delivery workflows, and business automation into one unified platform.
+- Online storefront creation and management.
+- Product and inventory management.
+- Order collection and processing.
+- Delivery and courier workflows.
+- Business automation.
+- AI-powered content generation.
+- Permission-controlled AI agent operations.
 
-Traditional online businesses often depend on disconnected tools, spreadsheets, social media inboxes, manual order processing, and fragmented operational workflows.
+### Agent-Oriented Commerce
 
-Bebsai aims to bring these activities together through a centralized business management ecosystem.
+Bebsai takes a step towards intelligent business operations through specialized AI agents.
 
-### Core Platform Capabilities
+Its vision includes assisting merchants with marketing, content generation, seasonal campaigns, order management, delivery placement, and routine digital operations.
 
-| Platform Module | Capabilities |
+**The store owner remains in control.** Owners determine the authority granted to agents and can supervise, interrupt, intervene, or override their activities at any time.
+
+<a href="https://bebsai.com">Visit www.bebsai.com →</a>
+
+---
+
+## WHAT WE DO
+
+Beyond our own product ecosystem, FTP Softs provides software engineering and technology development services.
+
+| Service | Focus |
 |:---|:---|
-| Online Store | Store creation, customization and management |
-| Product Management | Product catalogs and inventory operations |
-| Order Management | Order collection, processing and tracking |
-| Delivery Operations | Courier and fulfillment workflows |
-| Business Automation | Centralized operational workflows |
-| Marketing Operations | Digital marketing activities |
-| AI Content Generation | Intelligent content creation |
-| AI Agent Ecosystem | Permission-controlled business automation |
-
-### The Next Evolution: Agent-Oriented Commerce
-
-Bebsai introduces an agent-oriented approach to e-commerce operations.
-
-Rather than limiting AI to conversational assistance, the platform's vision is to make specialized agents capable of assisting with actual business workflows.
-
-The ecosystem is designed around activities such as:
-
-- Marketing and campaign operations.
-- Trend-informed content generation.
-- Seasonal promotional planning.
-- Order collection and management.
-- Delivery and courier placement.
-- Routine digital store operations.
-
-**Merchant-controlled intelligence**
-
-Automation should never mean losing control of your business.
-
-Bebsai allows store owners to determine the level of authority granted to their agents. Owners can authorize automated execution, supervise activities, intervene, interrupt, or override operations whenever necessary.
-
-The store owner retains the ultimate authority.
-
-<div align="center">
-
-**BE BOLD. BUILD SMART. GROW WITH BEBSAI.**
-
-<a href="https://bebsai.com">https://bebsai.com</a>
-
-</div>
-
-### More Products. More Possibilities.
-
-Bebsai is our latest product, but it is not the limit of our product development journey.
-
-FTP Softs continues to develop and explore software products across different industries, business models, and technology domains.
-
-New products and publicly available projects will be showcased here as they evolve.
+| Web Development | Modern web applications and platforms |
+| Mobile Development | Android, iOS and cross-platform apps |
+| UI/UX Design | Product design and user experiences |
+| SaaS Development | Scalable subscription-based platforms |
+| Backend Engineering | APIs, architecture and business logic |
+| E-Commerce Development | Digital commerce solutions |
+| Cloud & DevOps | Infrastructure and deployment |
+| API Integration | Third-party services and system connectivity |
+| Custom Software | Business-specific software solutions |
+| Maintenance | Optimization and ongoing support |
 
 ---
 
-## 03 / WHAT WE ENGINEER
+## TECHNOLOGY STACK
 
-We provide software engineering and technology services to businesses, entrepreneurs, and organizations.
+We work with modern technologies and engineering tools to develop scalable, maintainable, and reliable software.
 
-| Service | Engineering Focus |
-|:---|:---|
-| Web Application Development | Modern, scalable web applications |
-| Mobile App Development | Android, iOS and cross-platform applications |
-| UI/UX & Product Design | User-centric interfaces and product experiences |
-| SaaS Development | Subscription-based software platforms |
-| Backend Engineering | APIs, business logic and scalable systems |
-| E-Commerce Solutions | Digital commerce platforms and integrations |
-| Cloud & DevOps | Infrastructure, deployment and optimization |
-| API Development | Third-party integrations and system connectivity |
-| Technical Maintenance | Monitoring, optimization and ongoing support |
-| Custom Software | Tailored solutions for unique business requirements |
+**Frontend**
 
----
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Frontend technologies"/>
 
-## 04 / TECHNOLOGY STACK
+**Backend**
 
-We work with modern technologies and development tools to build reliable, secure, and maintainable software.
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" alt="Backend technologies"/>
 
-### Frontend Engineering
+**Mobile**
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,swift" alt="Mobile technologies"/>
 
-### Backend Engineering
+**Database**
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-234236?style=flat-square&logo=nodedotjs&logoColor=6DA55F"/>
-<img src="https://img.shields.io/badge/Express.js-303030?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" alt="Database technologies"/>
 
-### Mobile Engineering
+**Infrastructure & Tools**
 
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white"/>
-</p>
-
-### Infrastructure & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</p>
-
-### Development & API Tools
-
-<p>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
-Our technology choices depend on project requirements, system architecture, scalability, performance, and long-term maintainability.
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,postman" alt="Infrastructure and development tools"/>
 
 ---
 
-## 05 / OUR ENGINEERING PROCESS
+## OUR ENGINEERING APPROACH
 
-We follow a structured development methodology to ensure quality throughout the product lifecycle.
+We follow a structured development process to deliver reliable digital products.
 
-| Phase | Process |
+| Stage | Description |
 |:---:|:---|
-| 01 | **Discovery & Research** — Understanding requirements and identifying problems |
-| 02 | **Architecture** — Planning system structure and technical specifications |
-| 03 | **Product Design** — Designing user experiences and interface systems |
-| 04 | **Engineering** — Developing applications and integrating systems |
-| 05 | **Quality Assurance** — Testing functionality, performance and reliability |
-| 06 | **Deployment** — Releasing products and managing infrastructure |
-| 07 | **Evolution** — Monitoring, maintenance and continuous improvement |
+| 01 | **Discovery** — Research and requirement analysis |
+| 02 | **Architecture** — System design and technical planning |
+| 03 | **Design** — User experience and interface engineering |
+| 04 | **Development** — Software implementation and integration |
+| 05 | **Quality Assurance** — Testing, security and optimization |
+| 06 | **Deployment** — Production release and infrastructure |
+| 07 | **Evolution** — Maintenance and continuous improvement |
 
-We prioritize clean architecture, maintainable code, efficient workflows, and reliable engineering practices.
-
----
-
-## 06 / OUR MISSION
-
-To engineer innovative digital products and accessible technology solutions that simplify complex processes, empower businesses, and create opportunities through technology.
-
-## 07 / OUR VISION
-
-To become a product-driven technology company recognized for building meaningful software, intelligent business ecosystems, and scalable digital infrastructure.
+We emphasize clean architecture, maintainable code, performance, security, and long-term product sustainability.
 
 ---
 
-## 08 / COLLABORATE WITH US
+## OUR MISSION
+
+To build innovative digital products and accessible technology solutions that simplify complexity, empower businesses, and create opportunities through technology.
+
+## OUR VISION
+
+To become a product-driven technology company recognized for engineering meaningful software, developing innovative digital ecosystems, and delivering scalable technology solutions.
+
+---
+
+## LET'S BUILD SOMETHING MEANINGFUL
 
 Have an idea, a product concept, or a business challenge?
 
-We welcome opportunities to collaborate, engineer innovative products, and develop technology that creates meaningful impact.
+We welcome collaborations, engineering partnerships, and opportunities to create technology that makes a difference.
 
 <div align="center">
 
-### LET'S BUILD SOMETHING MEANINGFUL.
-
-<br/>
-
-<a href="https://ftpsofts.com">
-  <img src="https://img.shields.io/badge/WEBSITE-ftpsofts.com-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sabbirmms">
-  <img src="https://img.shields.io/badge/GITHUB-Sabbir-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://bebsai.com">
-  <img src="https://img.shields.io/badge/LATEST_PRODUCT-BEBSai-16A34A?style=for-the-badge"/>
-</a>
+<a href="https://ftpsofts.com"><img src="https://img.shields.io/badge/WEBSITE-ftpsofts.com-16A34A?style=for-the-badge" /></a>
+<a href="https://github.com/sabbirmms"><img src="https://img.shields.io/badge/GITHUB-Sabbir-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-# FTP SOFTS
+<img src="https://ftpsofts.com/assets/img/logo.png" width="190" alt="FTP Softs"/>
 
-**Engineering the Future, One Product at a Time.**
+### ENGINEERING THE FUTURE, ONE PRODUCT AT A TIME.
 
 <br/>
 
-<sub>Maintained by <a href="https://github.com/sabbirmms">Sabbir</a></sub>
+**Maintained by FTP Softs**
+
+<sub>© FTP Softs. All rights reserved.</sub>
 
 </div>
